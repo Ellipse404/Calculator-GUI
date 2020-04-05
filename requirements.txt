@@ -1,0 +1,8 @@
+Your machine must have installed 
+  I. python 2.7 or above version.
+ II. 'tkinter' module shoule be installed.If you don't have follow below steps :
+
+             a) In ANACONDA : "conda install -c anaconda tk"  <---- run this command
+             b) In PyCharm : install the module “future” and restart pycharm. Tkinter will                                        be imported.
+             c) In Virtual Environment :  "sudo apt-get install python-tk" ----->(python2), 
+			          "sudo apt-get install python3-tk" ----->(python3)
