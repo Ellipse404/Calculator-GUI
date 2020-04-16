@@ -2,7 +2,7 @@
 """
 Created on Wed Apr 8 18:20:41 2020
 
-@author: BHASKAR NEOGI
+@author: BHASKAR NEOGI 
 """
 from tkinter import*
 import math
