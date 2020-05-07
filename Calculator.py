@@ -167,11 +167,11 @@ button0 = Button(cal, padx=13, pady=14, bd=8, fg='black',  font=('arial', 10, 'b
 button0.grid(row=6, column=1)
 
 buttonDzero = Button(cal, padx=14, pady=13, bd=6, fg='black', font=('arial', 14, 'bold'),
-                     text='00', command = lambda : btnClick(00))
+                     text='00', command = lambda : btnClick('00'))
 buttonDzero.grid(row=6, column=2)
 
 buttonTzero = Button(cal, padx=14, pady=13, bd=6, fg='black', font=('arial', 14, 'bold'),
-                     text='000', command = lambda : btnClick(000))
+                     text='000', command = lambda : btnClick('000'))
 buttonTzero.grid(row=6, column=3)
 
 
